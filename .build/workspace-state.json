@@ -1,0 +1,23 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "testframeworkswift",
+          "kind" : "root",
+          "location" : "/Users/thanhlong/Documents/Personal/ProjectPersonal/Mobile/TestFrameworkSwift",
+          "name" : "TestFrameworkSwift"
+        },
+        "path" : "/Users/thanhlong/Documents/Personal/ProjectPersonal/Mobile/TestFrameworkSwift/ForTest.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "ForTest"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 5
+}
