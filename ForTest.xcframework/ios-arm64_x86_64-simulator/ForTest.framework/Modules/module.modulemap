@@ -1,0 +1,11 @@
+framework module ForTest {
+  umbrella header "ForTest.h"
+
+  export *
+  module * { export * }
+}
+
+module ForTest.Swift {
+  header "ForTest-Swift.h"
+  requires objc
+}
